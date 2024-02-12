@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         operativa_cuenta(10.5F);
+        operativa_cuenta(1045.5F); //Llamamos nuevamente al método
     }
 
     private static void operativa_cuenta(java.lang.Float cantidad) {

@@ -5,6 +5,8 @@ public class Cuenta {
 
     private String nombre;
     private String cuenta;
+    private String apellido; //Añadimos una variable de tipo String
+    private String puesto; //Puesto que ocupa
     private double saldo;
     private double tipoInteres;
 
